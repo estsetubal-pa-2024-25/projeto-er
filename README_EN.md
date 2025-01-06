@@ -7,7 +7,7 @@ Executing the `main` method should produce the following result:
 ![Figure 1](images/example.png)
 
 ## Libraries/dependencies
-d
+
 The project contains the following dependencies imported via _Maven_:
 
 - JUnit 5.8.1

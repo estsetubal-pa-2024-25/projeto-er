@@ -6,17 +6,14 @@
     "distance_bus": 2.61,
     "distance_boat": null,
     "distance_walk": 2,
-    "distance_bicycle": 2.27,
     "duration_train": 2,
     "duration_bus": 3,
     "duration_boat": null,
     "duration_walk": 27,
-    "duration_bicycle": 9,
     "cost_train": 1.15,
     "cost_bus": 0.55,
     "cost_boat": null,
-    "cost_walk": 0.54,
-    "cost_bicycle": -0.25
+    "cost_walk": 0.54
   },
   {
     "stop_code_start": "MEM002",
@@ -25,17 +22,14 @@
     "distance_bus": 2.55,
     "distance_boat": null,
     "distance_walk": 2.22,
-    "distance_bicycle": 2.22,
     "duration_train": 2,
     "duration_bus": 3,
     "duration_boat": null,
     "duration_walk": 27,
-    "duration_bicycle": 9,
     "cost_train": 1.1,
     "cost_bus": 0.55,
     "cost_boat": null,
-    "cost_walk": -0.78,
-    "cost_bicycle": 0.2
+    "cost_walk": -0.78
   },
   {
     "stop_code_start": "RIO003",
@@ -44,17 +38,14 @@
     "distance_bus": 5.38,
     "distance_boat": null,
     "distance_walk": 4.68,
-    "distance_bicycle": 4.68,
     "duration_train": 4,
     "duration_bus": 6,
     "duration_boat": null,
     "duration_walk": 56,
-    "duration_bicycle": 19,
     "cost_train": 2.35,
     "cost_bus": 1.15,
     "cost_boat": null,
-    "cost_walk": 0,
-    "cost_bicycle": 0.45
+    "cost_walk": 0
   },
   {
     "stop_code_start": "CAC004",
@@ -63,17 +54,14 @@
     "distance_bus": 4.28,
     "distance_boat": null,
     "distance_walk": 3.72,
-    "distance_bicycle": 3.72,
     "duration_train": 3,
     "duration_bus": 5,
     "duration_boat": null,
     "duration_walk": 45,
-    "duration_bicycle": 15,
     "cost_train": 1.85,
     "cost_bus": 0.95,
     "cost_boat": null,
-    "cost_walk": 0,
-    "cost_bicycle": 0.35
+    "cost_walk": 0
   },
   {
     "stop_code_start": "QUE005",
@@ -82,17 +70,14 @@
     "distance_bus": 1.77,
     "distance_boat": null,
     "distance_walk": 1.54,
-    "distance_bicycle": 1.54,
     "duration_train": 1,
     "duration_bus": 2,
     "duration_boat": null,
     "duration_walk": 19,
-    "duration_bicycle": 6,
     "cost_train": 0.75,
     "cost_bus": 0.4,
     "cost_boat": null,
-    "cost_walk": -0.63,
-    "cost_bicycle": 0.15
+    "cost_walk": -0.63
   },
   {
     "stop_code_start": "QUE005",
@@ -101,17 +86,14 @@
     "distance_bus": 3.01,
     "distance_boat": null,
     "distance_walk": 2.62,
-    "distance_bicycle": 2.62,
     "duration_train": 2,
     "duration_bus": 3,
     "duration_boat": null,
     "duration_walk": 31,
-    "duration_bicycle": 11,
     "cost_train": 1.3,
     "cost_bus": 0.65,
     "cost_boat": null,
-    "cost_walk": 1.54,
-    "cost_bicycle": 0.25
+    "cost_walk": 1.54
   },
   {
     "stop_code_start": "RIO003",
@@ -120,17 +102,14 @@
     "distance_bus": 11.04,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": 7,
     "duration_bus": 12,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": 4.8,
     "cost_bus": 2.4,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   },
   {
     "stop_code_start": "OER010",
@@ -139,17 +118,14 @@
     "distance_bus": 7.35,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": 5,
     "duration_bus": 8,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": 3.2,
     "cost_bus": 1.6,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   },
   {
     "stop_code_start": "AMAD006",
@@ -158,17 +134,14 @@
     "distance_bus": 2.14,
     "distance_boat": null,
     "distance_walk": 1.86,
-    "distance_bicycle": 1.86,
     "duration_train": 1,
     "duration_bus": 2,
     "duration_boat": null,
     "duration_walk": 22,
-    "duration_bicycle": 7,
     "cost_train": 0.95,
     "cost_bus": 0.45,
     "cost_boat": null,
-    "cost_walk": -0.22,
-    "cost_bicycle": 0.2
+    "cost_walk": -0.22
   },
   {
     "stop_code_start": "REB007",
@@ -177,17 +150,14 @@
     "distance_bus": 7.87,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": 6.84,
     "duration_train": 5,
     "duration_bus": 8,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": 27,
     "cost_train": 3.4,
     "cost_bus": 1.7,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": 0.7
+    "cost_walk": null
   },
   {
     "stop_code_start": "ODO008",
@@ -196,17 +166,14 @@
     "distance_bus": 4.92,
     "distance_boat": null,
     "distance_walk": 4.28,
-    "distance_bicycle": 4.28,
     "duration_train": 3,
     "duration_bus": 5,
     "duration_boat": null,
     "duration_walk": 51,
-    "duration_bicycle": 17,
     "cost_train": 2.15,
     "cost_bus": 1.05,
     "cost_boat": null,
-    "cost_walk": 0,
-    "cost_bicycle": -0.45
+    "cost_walk": 0
   },
   {
     "stop_code_start": "BAR012",
@@ -215,17 +182,14 @@
     "distance_bus": null,
     "distance_boat": 7.98,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": null,
     "duration_bus": null,
     "duration_boat": 19,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": null,
     "cost_bus": null,
     "cost_boat": 6,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   },
   {
     "stop_code_start": "COI017",
@@ -234,17 +198,14 @@
     "distance_bus": 15.44,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": 10,
     "duration_bus": 16,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": 5.7,
     "cost_bus": 3.35,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   },
   {
     "stop_code_start": "PAL018",
@@ -253,17 +214,14 @@
     "distance_bus": 7.95,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": 6.91,
     "duration_train": 5,
     "duration_bus": 8,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": 28,
     "cost_train": 3.45,
     "cost_bus": 1.75,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": 0.7
+    "cost_walk": null
   },
   {
     "stop_code_start": "PAL018",
@@ -272,17 +230,14 @@
     "distance_bus": 5.97,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": 5.19,
     "duration_train": 4,
     "duration_bus": 6,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": 21,
     "cost_train": 2.6,
     "cost_bus": 1.3,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": 0.5
+    "cost_walk": null
   },
   {
     "stop_code_start": "CAIS019",
@@ -291,17 +246,14 @@
     "distance_bus": 4.6,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": 3,
     "duration_bus": 5,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": 2,
     "cost_bus": 1,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   },
   {
     "stop_code_start": "CHA021",
@@ -310,17 +262,14 @@
     "distance_bus": 8.4,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": 7.3,
     "duration_train": null,
     "duration_bus": 9,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": 29,
     "cost_train": null,
     "cost_bus": 1.8,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": 0.75
+    "cost_walk": null
   },
   {
     "stop_code_start": "CAC022",
@@ -329,17 +278,14 @@
     "distance_bus": null,
     "distance_boat": 2.74,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": null,
     "duration_bus": null,
     "duration_boat": 7,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": null,
     "cost_bus": null,
     "cost_boat": 2.05,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   },
   {
     "stop_code_start": "CAC022",
@@ -348,17 +294,14 @@
     "distance_bus": 3.27,
     "distance_boat": null,
     "distance_walk": 2.84,
-    "distance_bicycle": 2.84,
     "duration_train": 2,
     "duration_bus": 3,
     "duration_boat": null,
     "duration_walk": 34,
-    "duration_bicycle": 11,
     "cost_train": 1.4,
     "cost_bus": 0.7,
     "cost_boat": null,
-    "cost_walk": 0,
-    "cost_bicycle": 0.3
+    "cost_walk": 0
   },
   {
     "stop_code_start": "COR025",
@@ -367,17 +310,14 @@
     "distance_bus": 6.38,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": 5.55,
     "duration_train": 4,
     "duration_bus": 7,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": 22,
     "cost_train": 2.8,
     "cost_bus": 1.4,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": 0.55
+    "cost_walk": null
   },
   {
     "stop_code_start": "COR025",
@@ -386,17 +326,14 @@
     "distance_bus": 4.65,
     "distance_boat": null,
     "distance_walk": 4.04,
-    "distance_bicycle": 4.04,
     "duration_train": 3,
     "duration_bus": 5,
     "duration_boat": null,
     "duration_walk": 49,
-    "duration_bicycle": 16,
     "cost_train": 2,
     "cost_bus": 1,
     "cost_boat": null,
-    "cost_walk": -1.24,
-    "cost_bicycle": 0.4
+    "cost_walk": -1.24
   },
   {
     "stop_code_start": "COR025",
@@ -405,17 +342,14 @@
     "distance_bus": 5.42,
     "distance_boat": null,
     "distance_walk": 4.71,
-    "distance_bicycle": 4.71,
     "duration_train": 4,
     "duration_bus": 6,
     "duration_boat": null,
     "duration_walk": 57,
-    "duration_bicycle": 19,
     "cost_train": 2.35,
     "cost_bus": 1.2,
     "cost_boat": null,
-    "cost_walk": -0.78,
-    "cost_bicycle": -1.45
+    "cost_walk": -0.78
   },
   {
     "stop_code_start": "FOR026",
@@ -424,17 +358,14 @@
     "distance_bus": 3.23,
     "distance_boat": null,
     "distance_walk": 2.81,
-    "distance_bicycle": 2.81,
     "duration_train": null,
     "duration_bus": 3,
     "duration_boat": null,
     "duration_walk": 34,
-    "duration_bicycle": 11,
     "cost_train": null,
     "cost_bus": 0.7,
     "cost_boat": null,
-    "cost_walk": 0,
-    "cost_bicycle": 0.3
+    "cost_walk": 0
   },
   {
     "stop_code_start": "FOR026",
@@ -443,17 +374,14 @@
     "distance_bus": 6.03,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": 5.24,
     "duration_train": 3,
     "duration_bus": 6,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": 21,
     "cost_train": 2.6,
     "cost_bus": 1.3,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": 0.5
+    "cost_walk": null
   },
   {
     "stop_code_start": "PAL018",
@@ -462,17 +390,14 @@
     "distance_bus": 15.34,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": 10,
     "duration_bus": 16,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": 5.65,
     "cost_bus": 3.35,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   },
   {
     "stop_code_start": "COI017",
@@ -481,17 +406,14 @@
     "distance_bus": 18.6,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": null,
     "duration_bus": 19,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": null,
     "cost_bus": 4.05,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   },
   {
     "stop_code_start": "ENT020",
@@ -500,17 +422,14 @@
     "distance_bus": 9.5,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": 6,
     "duration_bus": 10,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": 4.15,
     "cost_bus": 2.05,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   },
   {
     "stop_code_start": "ENT020",
@@ -519,17 +438,14 @@
     "distance_bus": 7.49,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": 6.51,
     "duration_train": 5,
     "duration_bus": 8,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": 26,
     "cost_train": 3.25,
     "cost_bus": 1.65,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": 0.65
+    "cost_walk": null
   },
   {
     "stop_code_start": "ENT020",
@@ -538,17 +454,14 @@
     "distance_bus": 8.2,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": 7.13,
     "duration_train": 5,
     "duration_bus": 9,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": 29,
     "cost_train": 3.55,
     "cost_bus": 1.8,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": 0.7
+    "cost_walk": null
   },
   {
     "stop_code_start": "CAIS019",
@@ -557,17 +470,14 @@
     "distance_bus": 8.49,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": 6,
     "duration_bus": 9,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": 3.7,
     "cost_bus": 1.85,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   },
   {
     "stop_code_start": "TRO016",
@@ -576,17 +486,14 @@
     "distance_bus": null,
     "distance_boat": 4.6,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": null,
     "duration_bus": null,
     "duration_boat": 11,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": null,
     "cost_bus": null,
     "cost_boat": 3.45,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   },
   {
     "stop_code_start": "SIN001",
@@ -595,17 +502,14 @@
     "distance_bus": 19.52,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": 13,
     "duration_bus": 20,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": 5.5,
     "cost_bus": 4.25,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   },
   {
     "stop_code_start": "CHA021",
@@ -614,17 +518,14 @@
     "distance_bus": 3.74,
     "distance_boat": null,
     "distance_walk": 3.25,
-    "distance_bicycle": 3.25,
     "duration_train": null,
     "duration_bus": 4,
     "duration_boat": null,
     "duration_walk": 39,
-    "duration_bicycle": 13,
     "cost_train": null,
     "cost_bus": 0.8,
     "cost_boat": null,
-    "cost_walk": 0.22,
-    "cost_bicycle": 0.35
+    "cost_walk": 0.22
   },
   {
     "stop_code_start": "SET014",
@@ -633,17 +534,14 @@
     "distance_bus": 25,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": null,
     "duration_bus": 25,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": 0,
     "cost_bus": 5.15,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   },
   {
     "stop_code_start": "MON029",
@@ -652,17 +550,14 @@
     "distance_bus": 3.76,
     "distance_boat": null,
     "distance_walk": 3.27,
-    "distance_bicycle": 3.27,
     "duration_train": 3,
     "duration_bus": 4,
     "duration_boat": null,
     "duration_walk": 39,
-    "duration_bicycle": 13,
     "cost_train": 1.65,
     "cost_bus": 0.8,
     "cost_boat": null,
-    "cost_walk": -0.66,
-    "cost_bicycle": 0.35
+    "cost_walk": -0.66
   },
   {
     "stop_code_start": "SEI024",
@@ -671,17 +566,14 @@
     "distance_bus": null,
     "distance_boat": 8.15,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": null,
     "duration_bus": null,
     "duration_boat": 20,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": null,
     "cost_bus": null,
     "cost_boat": 2.05,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   },
   {
     "stop_code_start": "SEI024",
@@ -690,17 +582,14 @@
     "distance_bus": 2.4,
     "distance_boat": null,
     "distance_walk": 2.09,
-    "distance_bicycle": 2.09,
     "duration_train": null,
     "duration_bus": 3,
     "duration_boat": null,
     "duration_walk": 25,
-    "duration_bicycle": 8,
     "cost_train": null,
     "cost_bus": 0.5,
     "cost_boat": null,
-    "cost_walk": 0,
-    "cost_bicycle": 0.2
+    "cost_walk": 0
   },
   {
     "stop_code_start": "BAR012",
@@ -709,17 +598,14 @@
     "distance_bus": 16.56,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": 11,
     "duration_bus": 17,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": 4.2,
     "cost_bus": 3.6,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   },
   {
     "stop_code_start": "PRAG023",
@@ -728,16 +614,13 @@
     "distance_bus": 9.25,
     "distance_boat": null,
     "distance_walk": null,
-    "distance_bicycle": null,
     "duration_train": 6,
     "duration_bus": 10,
     "duration_boat": null,
     "duration_walk": null,
-    "duration_bicycle": null,
     "cost_train": 4,
     "cost_bus": 2,
     "cost_boat": null,
-    "cost_walk": null,
-    "cost_bicycle": null
+    "cost_walk": null
   }
 ]

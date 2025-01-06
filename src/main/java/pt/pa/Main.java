@@ -27,18 +27,23 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) {
 
-        // Boilerplate. Need your own class, parametrized
-        Graph graph = new GraphEdgeList();
+        try {
+            // Boilerplate. Need your own class (TransportMap), parametrized
+            Graph graph = new GraphEdgeList();
+            MapView view = new MapView(graph);
 
-        MapView view = new MapView(graph);
+            Scene scene = new Scene(view, 1024, 720);
 
-        Scene scene = new Scene(view, 1024, 720);
+            Stage stage = new Stage(StageStyle.DECORATED);
 
-        Stage stage = new Stage(StageStyle.DECORATED);
+            stage.setTitle("Projeto PA 2024/25 - Maps");
+            stage.setScene(scene);
+            stage.show();
+        }  catch (Exception e) {
+            e.printStackTrace();
+            System.exit(-1);
+        }
 
-        stage.setTitle("Projeto PA 2024/25 - Maps");
-        stage.setScene(scene);
-        stage.show();
     }
 
 }

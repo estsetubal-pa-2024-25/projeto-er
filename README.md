@@ -1,16 +1,14 @@
-# Projeto Programação Avançada 2024/25 - Época Normal
+# Advanced Programming Project 2024/25 - Resource Season
 
-:gb: [English version](README_EN.md)
+The project statement is available on the Curricular Unit's Moodle.
 
-O enunciado do projeto está disponível no Moodle da Unidade Curricular.
+Executing the `main` method should produce the following result:
 
-A execução do método `main` deverá apresentar o seguinte resultado:
+![Figure 1](images/example.png)
 
-![Figura 1](images/example.png)
+## Libraries/dependencies
 
-## Bibliotecas/dependências
-
-O projeto tem as seguintes bibliotecas importadas a partir do _Maven_:
+The project contains the following dependencies imported via _Maven_:
 
 - JUnit 5.8.1
 - SmartGraph 2.0.0
@@ -18,4 +16,4 @@ O projeto tem as seguintes bibliotecas importadas a partir do _Maven_:
 
 ## Java Development Kit
 
-Deve utilizar uma versão do Java Development Kit (JDK) com suporte para JavaFX. A versão recomendada para a Unidade Curricular é a BellSoft Liberica JDK, versão **17 LTS (FULL)**. Transferência disponível em https://bell-sw.com/pages/downloads/#/java-17-lts
+You must use a version of the Java Development Kit (JDK) that supports JavaFX. The recommended version for the Course Unit is BellSoft Liberica JDK, version **17 LTS (FULL)**. Download available at https://bell-sw.com/pages/downloads/#/java-17-lts
